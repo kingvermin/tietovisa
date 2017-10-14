@@ -1,0 +1,9 @@
+﻿{
+  "title": "Tietovisa",
+  "description": "Tabris.js - Tietovisoja",
+  "category": "Small Apps",
+  "main": "src/avaruus.js",
+  "dependencies": {
+    "tabris": "^2.1.0"
+  }
+}
