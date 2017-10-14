@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<widget id="tietovisa.app" version="1.0.0">
+  <name>Tietovisa</name>
+  <description>
+    Tietovisoja.
+  </description>
+  <author email="" href="">
+    PNO
+  </author>
+</widget>
